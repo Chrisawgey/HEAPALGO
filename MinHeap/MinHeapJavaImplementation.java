@@ -1,7 +1,7 @@
 // import required classes and packages  
-packagejavaTpoint.javacodes;  
+package javaTpoint.javacodes;  
   
-importjava.util.Scanner;  
+import java.util.Scanner;  
   
 // create class MinHeap to construct Min heap in Java  
 classMinHeap {   
